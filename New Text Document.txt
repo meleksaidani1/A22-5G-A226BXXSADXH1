@@ -1,0 +1,2 @@
+fastboot erase system
+fastboot erase userdata
