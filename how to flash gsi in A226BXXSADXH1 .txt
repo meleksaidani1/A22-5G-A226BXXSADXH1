@@ -1,0 +1,6 @@
+1first reboot fastboot use twrp for that
+2fastboot erase system
+3fastboot erase userdata
+4reboot to recovery and flash rom.img use twrp 
+5flash DynaPatch-V2.1.zip 
+and reboot :)
